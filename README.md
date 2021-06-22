@@ -10,7 +10,7 @@ For starters, use **Reccomended** stuff _first_(.bat, .ps1 and .reg) as they're 
 
 **Disable all kinds of corporative tools** - Disables all corporative tools supplied with Windows. Not reccomended to use at actual corporates. Fine to use with home PC's as long as you know alternatives such as TeamViewer.
 
-**Disable Cortana and speech module updates** - Basically, if you don't use Cortana nor speech tools, disable both.
+**Disable Cortana and speech module updates** - Basically, if you don't use Cortana(at all) nor speech tools, disable both. Unlike most implementations of disabling it, this one doesn't break Search and any other services.
 
 **Dsiable experimentation** - Microsoft can experiment on your pc's, very rarily, but can. You can make them experiment on other rats other than yourself.
 
